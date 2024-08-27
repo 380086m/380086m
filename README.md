@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Predictable and average developer
+- TypeScript
+
 <!--
 **380086m/380086m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
